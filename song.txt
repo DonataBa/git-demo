@@ -3,6 +3,5 @@ Second line
 Third line
 Fourth line
 
-New lines to test
-Revert command
-------------------
+Fifth line
+Sixth line
